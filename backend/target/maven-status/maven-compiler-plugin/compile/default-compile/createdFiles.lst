@@ -1,0 +1,3 @@
+com\bookstore\model\OrderItem.class
+com\bookstore\dto\LoginRequest.class
+com\bookstore\util\CartObserver.class
